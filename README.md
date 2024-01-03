@@ -21,11 +21,11 @@ Classifiers
 
 After applying classifiers and hyperparameter tunning following are the results for the following performance metrices:
 TF-IDF
-|Classifiers	  |Accuracy |Precision |Recall	|F1 Score
-|Decision Tree	  |85.75%	85.23%	85.75%	85.41%
-|Random Forest	  |85.82%	85.29%	85.82%	85.46%
-|SVM	           |85.82%	85.29%	85.82%	85.46%
-|KNN	           |80.33%	81.50%	80.33%	78.62%
+1)Classifiers	  |Accuracy |Precision |Recall	|F1 Score
+2)|Decision Tree	  |85.75%	85.23%	85.75%	85.41%
+3)|Random Forest	  |85.82%	85.29%	85.82%	85.46%
+4)|SVM	           |85.82%	85.29%	85.82%	85.46%
+5)|KNN	           |80.33%	81.50%	80.33%	78.62%
 
 Count Vectorizer
 Classifiers	  Accuracy Precision Recall	F1 Score
